@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pathan772277
-- 👀 I’m interested in Cyber Security|Graphic Designing |Web development
+- ➡️ I’m interested in Cyber Security|Graphic Designing |Web development
 - 🌱 I’m currently learning Cyber Security,Networking,Graphic Designing
 
 
