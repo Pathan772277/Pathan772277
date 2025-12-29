@@ -18,19 +18,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pathan772277&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🔥 Contribution
-<div align='center'>
-<img src="https://raw.githubusercontent.com/NISHAKAR06/NISHAKAR06/output/snake.svg" alt="Snake animation" />
-</div>
 
-###
 
 ## 📈 Contribution Graph
-  <div align='center'>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pathan7772277&theme=github-dark&area=true" height="250" alt="activity-graph graph" /> <br>
-  </div>
-  
----
-
-## 
+<div align='center'>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pathan772277&theme=github-dark&area=true" height="250" alt="activity-graph graph" />
+</div>
+##
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
