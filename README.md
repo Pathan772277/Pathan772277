@@ -1,7 +1,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47491959-baf7-4d05-a1d7-0f485c86205a" />
 
 # 💫 About Me:
-👋 Hey there, I'm Pathan!<br><br> Graphic Designer🎨  | 💻 Frontend Developer | 🔒 Cybersecurity Explorer 
+👋 Hey there, I'm Pathan!<br><br> Graphic Designer🎨  | 💻 Frontend Developer | 🔒 Cybersecurity Explorer | 📲Interested in App Development
 
 
 ## 🌐 Socials:
