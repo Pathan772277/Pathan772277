@@ -27,7 +27,7 @@
 
 ## 📈 Contribution Graph
   <div align='center'>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NISHAKAR06&theme=github-dark&area=true" height="250" alt="activity-graph graph" /> <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pathan7772277&theme=github-dark&area=true" height="250" alt="activity-graph graph" /> <br>
   </div>
   
 ---
